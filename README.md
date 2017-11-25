@@ -29,7 +29,7 @@ H5支付目前仅支持企业，我是个体工商户，申请失败了，故暂
 4.如提示签名错误可以通过微信支付签名验证工具进行验证：https://pay.weixin.qq.com/wiki/tools/signverify/
 
 
-# 若对您有帮助，可以赞助并支持下作者哦，谢谢！
+# 若对您有帮助，可以赞助并支持下原作者哦，谢谢！（我只是改造为适合我用的了版权规原作者）
 
 <p align="center">
     <img src="https://www.dedemao.com/uploads/zan.jpg" width="500px">
